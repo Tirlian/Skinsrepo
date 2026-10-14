@@ -1,0 +1,780 @@
+{
+  "skins": 45,
+  "distinct_skin_hashes": 45,
+  "distinct_head_fronts": 45,
+  "individual_torso_front_masks": 45,
+  "individual_torso_back_masks": 45,
+  "previews": 45,
+  "rendered_views": 225,
+  "all_automated_checks_passed": true,
+  "ingame_test": "not_run",
+  "github_published": false,
+  "note": "Automatische Prüfungen belegen Dateieigenschaften, nicht eine objektive künstlerische Qualitätsstufe.",
+  "files": [
+    {
+      "id": "freya",
+      "sha256": "842ef41eab79d92c89349c50833a13799a3aa4d9c064105315badced14025445",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 750,
+      "changed_pixels_vs_v4": 2450,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "kian",
+      "sha256": "489d4956ceed512798a2f0bbd4f9cbc507e699ea47c25cc489399e473bdffd71",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 740,
+      "changed_pixels_vs_v4": 2449,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_fire",
+      "sha256": "46cd6a44eb29f40ee068c514cf076c830fb34b7325f715a9c875cb091860e656",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 907,
+      "changed_pixels_vs_v4": 2575,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_normal",
+      "sha256": "b9c87518b55338bb8f0d45dfe3d09f09a5daba7fe8aebd104c0de00251da7505",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 704,
+      "changed_pixels_vs_v4": 2500,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_water",
+      "sha256": "4d8a0629e30173d48a0aee15b98fd55b61ba7493cbc49b487b89799c2772aa79",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 927,
+      "changed_pixels_vs_v4": 2610,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_electric",
+      "sha256": "e8c48de7b55f1ba71b7e2bea76872dd778d99920dec484b7b66e1508669e0fa7",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 718,
+      "changed_pixels_vs_v4": 2404,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_grass",
+      "sha256": "bc7610112d540fb752c5770a5c87a0e08d833ac004938554f5c9decc870d6345",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 729,
+      "changed_pixels_vs_v4": 2466,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_ice",
+      "sha256": "59ae899823703fd4c76b5decd34f8f9cf1ed6590b3a011999b30563b28a9709c",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 1039,
+      "changed_pixels_vs_v4": 2704,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_fighting",
+      "sha256": "958b13f17d0170cf970c71e2d502ade0f7c1588497c349cb650622af7d48cff7",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 529,
+      "changed_pixels_vs_v4": 2306,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_poison",
+      "sha256": "181a98a5258539199fd4927f3845e3ebf2fde727eb15747c044a0efb6eb54679",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 755,
+      "changed_pixels_vs_v4": 2462,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_ground",
+      "sha256": "e08cdc2fe52949463144a2c71d860910857644a3faa79ea733676cfcb354ad2c",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 767,
+      "changed_pixels_vs_v4": 2498,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_flying",
+      "sha256": "348d1bb8adb953d13679fc78b0899a8323f9982d6d08a51d4bc609e6586738d4",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 746,
+      "changed_pixels_vs_v4": 2421,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_psychic",
+      "sha256": "0b794eb5e41f4348f31fd52365066238a0667cf453f05a9b3242c461ada3ea6c",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 1045,
+      "changed_pixels_vs_v4": 2763,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_bug",
+      "sha256": "3b79db7ebdb98ea729dd4140be44512ce899ad4f99aff2ee0c8144afb8fdf6c5",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 629,
+      "changed_pixels_vs_v4": 2480,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_rock",
+      "sha256": "0c7efbf527c9640b8ee5cc39686dcad6800922b1fd088f23c943a6846cb011b4",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 681,
+      "changed_pixels_vs_v4": 2472,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_ghost",
+      "sha256": "b8492f31bae55226e9f1ff2d6bce85a2e3211e3f2e6a4bf8653b49b9e3356ee6",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 959,
+      "changed_pixels_vs_v4": 2631,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_dragon",
+      "sha256": "ce3f81de24a6e7d9d7cf7c278529dd6b14a261698cee1991300a80e95276ffc4",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 943,
+      "changed_pixels_vs_v4": 2683,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_dark",
+      "sha256": "e41a526c25bcaaf302ea6a56e87f0f19ea8119cc954f962a87bf71fc10f6c4d0",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 774,
+      "changed_pixels_vs_v4": 2484,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_steel",
+      "sha256": "2de9b37010e45b9395b9824d153365d1459a6a0af2c22b1441b962c1e48fab23",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 830,
+      "changed_pixels_vs_v4": 2520,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "gym_fairy",
+      "sha256": "907052bf7127a6d8cca45c014511fa6fdb10886f51bcf34b0306461b5b51e6b6",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 934,
+      "changed_pixels_vs_v4": 2634,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "league_tirlian",
+      "sha256": "a64ba76eaa0cc7c9cbaa20c1c3d9a12c5b2698409807e8f597aaa48b2c8a59de",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 910,
+      "changed_pixels_vs_v4": 2611,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "league_cassia",
+      "sha256": "cd9169469e97bee2b3286019ddef649ca493790a29765b07055b1b30688f4f19",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 1047,
+      "changed_pixels_vs_v4": 2730,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "league_orion",
+      "sha256": "f973f450be0801405348793b35c6f7596911cce400e4ff1803b5fa108f12308b",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 865,
+      "changed_pixels_vs_v4": 2575,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "league_lys",
+      "sha256": "d49857885744de7585e1e4f613ef46348bb5e2692e8ec110a7e33bce2268f188",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 897,
+      "changed_pixels_vs_v4": 2623,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "league_champion",
+      "sha256": "2bf21b9f6e2ca208e62482efe0bc6da78fd8e4fe4bb335a0eb63708625b33e88",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 911,
+      "changed_pixels_vs_v4": 2622,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "nova_aster",
+      "sha256": "3fc93bbe69df0ad79d35526ce7fc1342e70f5a8f962de0b03760fe144a9acb31",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 919,
+      "changed_pixels_vs_v4": 2623,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "nova_lyra",
+      "sha256": "540310b14cb1f3b6481d3357dd767642bc51cad108b403c3c09faa9c71c68269",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 942,
+      "changed_pixels_vs_v4": 2625,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "nova_varek",
+      "sha256": "a4b4f5040dd497c88770709a1c871027b9bdad3f9d77a058b39d80248782320b",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 882,
+      "changed_pixels_vs_v4": 2580,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "nova_korr",
+      "sha256": "89462c7b2f0c089a53d87bd07b76cc02f0ab9ce16c958ef668ba8b2e3bbf5574",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 888,
+      "changed_pixels_vs_v4": 2611,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "nova_grunt_01",
+      "sha256": "665e7f7cb0a33689ec80f993a8fc28666aa2189e1e0a7c9245307e0f6efc1fb5",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 857,
+      "changed_pixels_vs_v4": 2548,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "nova_grunt_02",
+      "sha256": "d001337c4c97d441ca1da383ecd20e17c0a0d82dcc34b8b0cb047a01d31f552c",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 808,
+      "changed_pixels_vs_v4": 2532,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "nova_grunt_03",
+      "sha256": "52d30788f56acf69f8d6692a8dc10487a1982bd942dd4dadba2ac5ae657492d2",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 762,
+      "changed_pixels_vs_v4": 2479,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "nova_grunt_04",
+      "sha256": "450bf78f75ebff96610aece38c2f400f04e5679de0197778c81c82d7d15087a5",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 652,
+      "changed_pixels_vs_v4": 2424,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "research_elian",
+      "sha256": "b05dea4d072cc988c05bceedf0de68e592fa80c580e63e3c60ff58e74b34e572",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 915,
+      "changed_pixels_vs_v4": 2601,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "research_mira",
+      "sha256": "35437a040c64d00a95495a40599637637dcd4588659ec846bbddd00faecacd18",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 940,
+      "changed_pixels_vs_v4": 2682,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "research_rhea",
+      "sha256": "dd94c5da7920aecd68811b1a64ea491a96f313ea28deb3e96e28baf3a1f9e9fe",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 703,
+      "changed_pixels_vs_v4": 2439,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "research_fossil",
+      "sha256": "cfb83899eadb7bca1aeb8e10b26c4465802ac63ea894aa350c7fed5b6a5ae6b1",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 796,
+      "changed_pixels_vs_v4": 2533,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "quest_healer",
+      "sha256": "61baef47cc9cec6aaadff4f626be1142a64e1c1f5036a1e16077fba518c75c33",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 781,
+      "changed_pixels_vs_v4": 2592,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "quest_guide",
+      "sha256": "3378ce1d818ef7d7161b36e26c1c1d4abec7b66dc993ad3f7ded4326bbd6843f",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 738,
+      "changed_pixels_vs_v4": 2464,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "quest_merchant",
+      "sha256": "bf8df5bee42b5e5f46ebeef7d05cc2024016a12864909a33dafc385c4bb11e88",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 696,
+      "changed_pixels_vs_v4": 2407,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "quest_historian",
+      "sha256": "f490267d274448e23226f6d2e4404be8c1aaa447d965b073f6f873e0cb510188",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 877,
+      "changed_pixels_vs_v4": 2687,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "quest_miner",
+      "sha256": "349b2bc3cd43582a36f6730554faaec03169dc98028436335b60dde70a4a8367",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 801,
+      "changed_pixels_vs_v4": 2531,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "quest_ranger",
+      "sha256": "2fa0c40cd2eb9493be51230f70b772e0001699dba9ee60eb09164019ac74d38d",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 716,
+      "changed_pixels_vs_v4": 2487,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "quest_engineer",
+      "sha256": "8bb16a7615f222dcdddbe5f1d14bd50796dfa5853b0718b911dca51ce8b12456",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 615,
+      "changed_pixels_vs_v4": 2423,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    },
+    {
+      "id": "quest_traveler",
+      "sha256": "7bdc409069734d4968c86149445e6df4d193b2d28bcc6b1c0976aac570c0cd51",
+      "size_px": [
+        64,
+        64
+      ],
+      "mode": "RGBA",
+      "base_opaque_pixels": 1632,
+      "outer_opaque_pixels": 755,
+      "changed_pixels_vs_v4": 2473,
+      "format_ok": true,
+      "base_opaque_ok": true,
+      "unused_uv_transparent_ok": true,
+      "alpha_binary_ok": true,
+      "preview_views": 5
+    }
+  ]
+}
