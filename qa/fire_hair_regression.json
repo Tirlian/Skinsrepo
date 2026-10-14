@@ -1,0 +1,55 @@
+{
+  "expected_palette_rgb": [
+    [
+      87,
+      19,
+      36
+    ],
+    [
+      137,
+      24,
+      42
+    ],
+    [
+      190,
+      39,
+      46
+    ],
+    [
+      226,
+      61,
+      33
+    ],
+    [
+      249,
+      111,
+      35
+    ]
+  ],
+  "checks": {
+    "front": {
+      "hair_pixels": 22,
+      "foreign_colors": []
+    },
+    "back": {
+      "hair_pixels": 44,
+      "foreign_colors": []
+    },
+    "right": {
+      "hair_pixels": 35,
+      "foreign_colors": []
+    },
+    "left": {
+      "hair_pixels": 37,
+      "foreign_colors": []
+    },
+    "top": {
+      "hair_pixels": 64,
+      "foreign_colors": []
+    },
+    "bottom": {
+      "hair_pixels": 0,
+      "foreign_colors": []
+    }
+  }
+}
