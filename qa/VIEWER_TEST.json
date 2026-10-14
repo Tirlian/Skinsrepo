@@ -1,0 +1,12 @@
+{
+  "browser": "Chromium (headless, Linux)",
+  "windows_browser_test": false,
+  "opened_from_file_url": false,
+  "file_url_test_note": "file:// blocked by sandbox browser policy; tested the identical HTML by set_content instead",
+  "all_45_embedded_skins_exact_rgba_bytes_verified": 45,
+  "old_v4_comparison_pixels_verified": true,
+  "five_view_buttons_tested": true,
+  "outer_layer_toggle_tested": true,
+  "javascript_errors": [],
+  "external_network_requests": []
+}
